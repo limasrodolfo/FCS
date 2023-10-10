@@ -14,10 +14,10 @@
 
 ![1](/img/05.png)
 
-3 - Em "IP address for the POST back in Harvester/Tabnabbing [SEU IP]:" 
-
-Aperte `Enter` 
-
+3 - Em "IP address for the POST back in Harvester/Tabnabbing [SEU IP]:" aperte
+```
+Enter 
+```
 4 - Escolha as opção
 ![2](/img/06.png)
 
@@ -25,10 +25,10 @@ Aperte `Enter`
 ![](/img/07.png)
 
 6 - Informe Email e Password fake para teste
-
-`Email: teste.fsc@dio.com.br`	
-`Passwd: passwd_dio`
-
+```
+Email: teste.fsc@dio.com.br	
+Passwd: passwd_dio
+```
 7 - Volte ao terminal e verifique as as credenciais foram coletadas
 ![](/img/08.png)
 
