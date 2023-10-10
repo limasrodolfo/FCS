@@ -1,27 +1,40 @@
-# Repositório de entrega dos desafios da Formação Cybersecurity Specialist - DIO
+# Repositório Formação Cybersecurity Specialist - DIO
 
-```sh
-# 1 - Abra o terminal
-CRTL + ALT + T
+## Desafio 1 - Phishing
 
-# 2 - Execute SET como root
-sudo setoolkit 
+1 - Abra o Terminal e execute SET como root
+![](/img/01.png)
 
-# 3 - Escolha as opções
-1, 2, 3 e 1
+2 - Escolha as opções:
 
-# 4 - Informe um IP ou aperte enter para utilizar seu IP
-ENTER
+`1`
+![](/img/02.png)
 
-# 5 - Escolha as opção
-2 
+`2`
+![](/img/03.png)
 
-# 6 - Abra o browser com o IP utilizado no passo 4
+`3`
+![](/img/04.png)
 
-# 7 - Informe Email e Password fake para teste
-Email: teste.fsc@dio.com.br	
-Passwd: passwd_dio
+`1`
+![](/img/05.png)
 
-# 8 - Volte ao terminal e verifique as as credenciais foram coletadas
-```
-![](/06.png)
+3 - Em "IP address for the POST back in Harvester/Tabnabbing [SEU IP]:" 
+Aperte `Enter` 
+
+4 - Escolha as opção
+
+`2`
+![](/img/06.png)
+
+5 - Abra o browser com o IP utilizado no passo 3
+![](/img/07.png)
+
+6 - Informe Email e Password fake para teste
+`Email: teste.fsc@dio.com.br`	
+`Passwd: passwd_dio`
+
+7 - Volte ao terminal e verifique as as credenciais foram coletadas
+![](/img/08.png)
+
+## -------------------------------------------------------------
